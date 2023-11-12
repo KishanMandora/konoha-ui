@@ -1,5 +1,5 @@
 {
-  "name": "konoha-ui",
+  "name": "wano-ui",
   "version": "1.0.0",
   "description": "",
   "main": "./dist/cjs/index.js",
@@ -7,7 +7,7 @@
   "types": "./dist/esm/index.d.ts",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/KishanMandora/konoha-ui"
+    "url": "https://github.com/KishanMandora/wano-ui"
   },
   "scripts": {
     "prettier": "prettier --write \"{src,tests,example/src}/**/*.{js,ts,jsx,tsx}\"",
